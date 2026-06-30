@@ -1,4 +1,3 @@
-/** Pedido pago em criptomoeda: entrega liberada após confirmação na blockchain. */
 public class PedidoCripto extends Pedido {
 
     public PedidoCripto(double quantidade, double valorItem) {

@@ -1,4 +1,3 @@
-/** Bebida concreta: cappuccino (café com leite). */
 public class Cappuccino extends Bebida {
 
     @Override

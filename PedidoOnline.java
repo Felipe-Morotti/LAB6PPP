@@ -1,4 +1,3 @@
-/** Pedido feito online: pagamento via cartão e entrega no endereço cadastrado. */
 public class PedidoOnline extends Pedido {
 
     public PedidoOnline(double quantidade, double valorItem) {

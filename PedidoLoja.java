@@ -1,4 +1,3 @@
-/** Pedido feito na loja física: pagamento no caixa e retirada no local (sem entrega). */
 public class PedidoLoja extends Pedido {
 
     public PedidoLoja(double quantidade, double valorItem) {

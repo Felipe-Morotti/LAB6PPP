@@ -1,4 +1,3 @@
-/** Bebida concreta: chá. */
 public class Cha extends Bebida {
 
     @Override

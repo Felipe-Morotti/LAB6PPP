@@ -1,4 +1,3 @@
-/** Bebida concreta: café simples. */
 public class Cafe extends Bebida {
 
     @Override
